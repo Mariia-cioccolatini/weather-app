@@ -24,7 +24,10 @@ li {
   font-weight: 100px;
   line-height: 19px;
 }
-
+small {
+  max-width: 600px;
+  margin: 30px auto;
+}
 li:first-letter {
   text-transform: capitalize;
 }
